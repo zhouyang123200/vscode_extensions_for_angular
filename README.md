@@ -1,0 +1,2 @@
+# vscode_extensions_for_angular
+为angular开发环境准备的vscode插件
